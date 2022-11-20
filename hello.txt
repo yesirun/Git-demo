@@ -1,5 +1,4 @@
-Hi 22!
-hello git! hot-fix
+hello git! main test
 hello git!
 hello git!
 hello git!
@@ -9,6 +8,3 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git! main text
-hello 22! hot-fix text!
